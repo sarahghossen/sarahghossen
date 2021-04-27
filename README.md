@@ -1,9 +1,11 @@
 <h1>👋 Hi! I’m Sarah</h1>
 <img src="https://im2.ezgif.com/tmp/ezgif-2-d3b81a42ec98.gif">
 
-<p>🎓Recent graduate from Concorida's Web Development Bootcamp</p>
-<p>✨Ambitious about making sure creative visions come to life</p>
-<p>🔥Firm believer of working out of the comfort zone</p>
+<ul>
+<li>🎓Recent graduate from Concorida's Web Development Bootcamp</li>
+<li>✨Ambitious about making sure creative visions come to life</li>
+<li>🔥Firm believer of working out of the comfort zone</li>
+  </ul>
 
 <h1>💪Tools I work with</h1>
 <p>Front-end</p>
