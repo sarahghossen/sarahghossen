@@ -1,5 +1,5 @@
 <h1>👋 Hi! I’m Sarah and I'm a Full-Stack Developer</h1>
-<img src="https://im2.ezgif.com/tmp/ezgif-2-d3b81a42ec98.gif">
+<img src="https://im2.ezgif.com/tmp/ezgif-2-35623f373895.gif">
 
 <ul>
 <li>🎓Recent graduate from Concordia's Web Development Bootcamp</li>
