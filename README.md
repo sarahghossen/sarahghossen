@@ -2,7 +2,7 @@
 <img src="https://im2.ezgif.com/tmp/ezgif-2-d3b81a42ec98.gif">
 
 <ul>
-<li>🎓Recent graduate from Concorida's Web Development Bootcamp</li>
+<li>🎓Recent graduate from Concordia's Web Development Bootcamp</li>
 <li>✨Ambitious about making sure creative visions come to life</li>
 <li>🔥Firm believer of working out of the comfort zone</li>
   </ul>
