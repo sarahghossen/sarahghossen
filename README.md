@@ -1,6 +1,6 @@
 <h1>👋 Hi! I’m Sarah and I'm a ..</h1>
 
-# `Front end dev/UX/UI designer/graphic designer`
+#### `Front end dev/UX/UI designer/graphic designer`
 
 <img src="https://res.cloudinary.com/ddd1g1rw8/image/upload/v1619573094/ezgif-2-35623f373895_vjn7fj.gif">
 <h1>💬Let's chat!</h1>
