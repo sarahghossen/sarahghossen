@@ -1,4 +1,4 @@
-<h1>👋 Hi! I’m Sarah and I'm a ..</h1>
+<h1>👋 Hi! I’m Sarah and I'm a ...</h1>
 
 #### `Front end dev/UX UI designer/graphic designer`
 
